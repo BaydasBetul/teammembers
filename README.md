@@ -1,36 +1,87 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Movie_Seat_Booking_App (JS-05)
+# Project-006 : Team Members Page (HC-006)
 
 ## Description
-Project aims to display movie choices and seats in a theater to select from in order to purchase tickets
+Project aims to create your development team web page.
 
-## Learning Outcomes
-
-At the end of the this project, students will be able to;
-
-- analyze a problem, create a real website page.
-
-- demonstrate their knowledge of algorithmic design principles.
-
-   
 ## Problem Statement
 
-- Create a seat_booking page following the design and make the calculation dynamically with using of DOM, Events and Arrays in JS.
+- Your company is updating its website. They ask you to make your development team page.
 
-![Form](movie_seat_booking.gif)
+## Project Skeleton 
 
-User story;
+```
+006-team-members-page(folder)
+|
+|----readme.md         # Given to the students (Definition of the project)
+|----/images # Contains development team members photos         
+|----solution
+        |----index.html  
+        |----style.css   
+        |----app.js
+```
 
-  - Display UI with movie select, screen, seats, legend & seat info
-  - User can select a movie/price
-  - User can select/deselect seats
-  - User can not select occupied seats
-  - Number of seats and price will update
-  - Save seats, movie and price to localStorage so that UI is still populated on refresh
+## Expected Outcome
 
-🔥 You don’t need to create a new template for this project, you can use [Movie_Seat_Booking_App](https://github.com/clarusway/clarusway-full-stack-9-21/tree/main/javascript/projects/005%20-%20Movie_Seat_Booking_App(JS-05)) template for html and css. We will be concerned in javascript side.
+![Project 006 Snapshot](Project_006_.png)
+
+## Objective
+
+Build a responsive web page similar to [Project 006 Snapshot](Project_006_.png)
+Add a theme button to switch your page theme day or night.
+
+- ![Project 006 Snapshot](project.gif)
+
+### At the end of the project, following topics are to be covered;
+
+- HTML 
+
+- CSS
+
+- JS
 
 
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS & JS
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+## Steps to Solution
+  
+- Step 1: Download or clone project repo on Github 
+
+- Step 2: Create project folder for local public repo on your pc
+
+- Step 3: Team Members Web Page
+
+>Part-1 HTML Structure
+
+	- Creat structure of the HTML5
+	- Give name of your project (title)
+	- Create the main structur of the HTML
+
+>>Part-2 CSS Structure
+
+    - You can apply all the technologies you learn. (Sass, Flexbox, Grid, Bootstrap)
+	- Set a background and define font color
+	- Set container background color and margin
+	- Define others color-size-padding etc...
+
+>>>Part-3 JS Structure
+
+	- Create code for day / night theme switch
+	
+- Step 4: Push your application into your own public repo on Github
+
+- Step 5: Deploy your application on Github template to showcase your app within your team.
+
+## Notes
+
+- Pay attention to the direction of the texts in the picture.
+- Your page should be responsive web.
+
+<center> ⌛ Happy Coding  ✍ </center>
 
